@@ -1,0 +1,73 @@
+{
+  "name": "",
+  "isOrdered": true,
+  "folders": {
+    "docs": {
+      "name": "docs",
+      "isOrdered": true,
+      "folders": {
+        "_next": {
+          "name": "_next",
+          "isOrdered": true,
+          "folders": {
+            "gkwCuNXb12QmNVFp2ScKD": {
+              "name": "gkwCuNXb12QmNVFp2ScKD",
+              "isOrdered": true,
+              "folders": {},
+              "files": {}
+            },
+            "static": {
+              "name": "static",
+              "isOrdered": true,
+              "folders": {
+                "chunks": {
+                  "name": "chunks",
+                  "isOrdered": true,
+                  "folders": {},
+                  "files": {}
+                },
+                "css": {
+                  "name": "css",
+                  "isOrdered": true,
+                  "folders": {},
+                  "files": {}
+                },
+                "gkwCuNXb12QmNVFp2ScKD": {
+                  "name": "gkwCuNXb12QmNVFp2ScKD",
+                  "isOrdered": true,
+                  "folders": {},
+                  "files": {}
+                }
+              },
+              "files": {}
+            }
+          },
+          "files": {}
+        }
+      },
+      "files": {}
+    },
+    "pages": {
+      "name": "pages",
+      "isOrdered": true,
+      "folders": {},
+      "files": {
+        "nullchecks": 0,
+        "index": 1
+      }
+    },
+    "public": {
+      "name": "public",
+      "isOrdered": true,
+      "folders": {},
+      "files": {}
+    },
+    "styles": {
+      "name": "styles",
+      "isOrdered": true,
+      "folders": {},
+      "files": {}
+    }
+  },
+  "files": {}
+}
