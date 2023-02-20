@@ -4,7 +4,7 @@ const nextConfig = {
   images: {
     unoptimized: true,
   },
-  basePath: "/developer-notes",
+  basePath: process.env.NEXT_PUBLIC_PATH,
 }
 
 const withNextra = require("nextra")({
